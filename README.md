@@ -1,4 +1,4 @@
-# home-automation
+# Tardigrade
 
 <img src="waterbear.jpg" width="400px" />
 
