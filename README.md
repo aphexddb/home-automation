@@ -1,5 +1,7 @@
 # home-automation
 
+<img src="waterbear.jpg" width="400px" />
+
 ## Exterior
 
 Environmental Sensors
